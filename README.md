@@ -1,3 +1,4 @@
+
 ## Adaptive Routing for Network Overload Avoidance using Genetic Algorithm
 
 ### Design and implement a genetic algorithm based route optimization algorithm to identify fastest route in a network with dynamic values of latency and jitter.
@@ -92,6 +93,13 @@ Higher Fitness means:
  2. Using the fitness values of each router based on Latency and Jitter as cost of the network Link. 
 
      ![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/djk.png)
+
+## Dijkstra's Algorithm Result 
+
+Shortest Path from 192.168.1.1 to 192.168.1.100: 
+
+    ['192.168.1.1', '192.168.1.98', '192.168.1.82', '192.168.1.92', '192.168.1.40', '192.168.1.73', '192.168.1.52', '192.168.1.32', '192.168.1.3', '192.168.1.57', '192.168.1.70', '192.168.1.85', '192.168.1.19', '192.168.1.100']
+
 
 ## Comparing GA and Dijkstra's Algorithm 
 
