@@ -2,9 +2,13 @@
 
 ### Design and implement a genetic algorithm based route optimization algorithm to identify fastest route in a network with dynamic values of latency and jitter.
 
+![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/Route.png)
+
 Each ‘route’ object is a chromosome
 The chromosome (route) is a linked list of routers (Router Objects). 
 Each router in the route points to the next router in sequence
+
+![Alt Text](image_url)
 
 Each ‘router’ object represents a gene in the chromosome. 
 Each gene includes : 
@@ -14,7 +18,13 @@ Each gene includes :
 4. jitter
 5. Fitness Value
 
+### Variables used to Initialize the Network 
+
+![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/Initializing%20the%20Network.png)
+
 ### Fitness Function 
+
+![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/Fitness_of_a_route%20.png)
 
 Higher Fitness means: 
 
@@ -22,6 +32,13 @@ Higher Fitness means:
 2. Stable Jitter
 3. Shorter total time of route
 
+### Elitism Function Working 
+
+![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/elitism.png)
+
+### Crossover Working 
+
+![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/GA.png)
 
 ### Other Functions used 
 
@@ -33,6 +50,20 @@ Higher Fitness means:
 6. evaluate_fitness
 7. collect_generations_history
 8. run_generations
+
+### Results of Optmization 
+
+![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/Route%201.png)
+![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/Route%201.png)
+![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/R3.png)
+![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/r7.png)
+![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/r8.png)
+![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/fr1.png)
+![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/fr2.png)
+![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/fr3.png)
+![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/fr7.png)
+![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/fr8.png)
+
 
 ## Comparing GA and Dijkstra's Algorithm 
 
