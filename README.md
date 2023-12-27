@@ -11,8 +11,8 @@ Each gene includes :
 1. IP Address 
 2. Last Octet
 3. Latency to next router
-			4. jitter
-			5. Fitness Value
+4. jitter
+5. Fitness Value
 
 ## Fitness Function 
 
