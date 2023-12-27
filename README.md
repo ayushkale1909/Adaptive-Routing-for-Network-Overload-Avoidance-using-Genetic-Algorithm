@@ -8,7 +8,7 @@ Each ‘route’ object is a chromosome
 The chromosome (route) is a linked list of routers (Router Objects). 
 Each router in the route points to the next router in sequence
 
-![Alt Text](image_url)
+![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/rr.png)
 
 Each ‘router’ object represents a gene in the chromosome. 
 Each gene includes : 
