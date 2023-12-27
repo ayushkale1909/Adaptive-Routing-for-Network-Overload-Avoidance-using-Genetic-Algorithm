@@ -91,7 +91,7 @@ Higher Fitness means:
  
  2. Using the fitness values of each router based on Latency and Jitter as cost of the network Link. 
 
-![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/djk.png)
+        ![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/djk.png)
 
 ## Comparing GA and Dijkstra's Algorithm 
 
