@@ -25,11 +25,27 @@ Higher Fitness means:
 
 ## Functions used 
 
-remove_repeated 
-detect_repeated
-mount_route
-update_total_latencies
-count_routers
-evaluate_fitness
-collect_generations_history
-run_generations
+1. remove_repeated 
+2. detect_repeated
+3. mount_route
+4. update_total_latencies
+5. count_routers
+6. evaluate_fitness
+7. collect_generations_history
+8. run_generations
+
+## Comparing GA and Dijkstra's Algorithm 
+
+#### Optimizing for Multiple Objectives:
+#### GA can be used to optimize for multiple objectives simultaneously, such as minimizing time, energy consumption, or load balancing.
+
+#### Exploration of Solution Space:
+#### GA explores a wide solution space whereas  Dijkstra's will converge to a optimum value. 
+
+#### Genetic Algorithms are adaptable to dynamic or changing network conditions. 
+ 
+#### GA can discover and optimize multiple routes, enabling load balancing across the network.
+#### Helpful in scenarios where distributing traffic or resources across multiple paths is essential for efficiency and reliability.
+
+#### Dijkstra's algorithm would requires less memory compared to genetic algorithm.
+
