@@ -54,15 +54,36 @@ Higher Fitness means:
 ### Results of Optmization 
 
 ![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/Route%201.png)
+
 ![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/Route%201.png)
+
 ![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/R3.png)
+
 ![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/r7.png)
+
 ![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/r8.png)
+
 ![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/fr1.png)
+
 ![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/fr2.png)
+
 ![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/fr3.png)
+
 ![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/fr8.png)
 
+### Top 4 Routes using Genetic Algorithm 
+
+#### Route 1: Total Fitness - 0.0008396305555026822
+    Nodes in Route 1: {'192.168.1.29', '192.168.1.42', '192.168.1.43', '192.168.1.25', '192.168.1.8', '192.168.1.1', '192.168.1.100', '192.168.1.21',     '192.168.1.3', '192.168.1.23', '192.168.1.16'}
+
+#### Route 2: Total Fitness - 0.002202643123289799
+    Nodes in Route 2: {'192.168.1.29', '192.168.1.100', '192.168.1.1'}
+
+#### Route 3: Total Fitness - 0.0037878786443985364
+    Nodes in Route 3: {'192.168.1.29', '192.168.1.15', '192.168.1.100', '192.168.1.1'}
+
+#### Route 4: Total Fitness - 0.0052910050110579355
+    Nodes in Route 4: {'192.168.1.29', '192.168.1.100', '192.168.1.1'}
 
 ## Comparing GA and Dijkstra's Algorithm 
 
