@@ -85,6 +85,14 @@ Higher Fitness means:
 #### Route 4: Total Fitness - 0.0052910050110579355
     Nodes in Route 4: {'192.168.1.29', '192.168.1.100', '192.168.1.1'}
 
+## Dijkstra's Algorithm using the same Network 
+
+ 1. Implemented Dijkstra’s Algorithm using the same network used in Genetic Algorithm with Router and Route classes. 
+ 
+ 2. Using the fitness values of each router based on Latency and Jitter as cost of the network Link. 
+
+![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/djk.png)
+
 ## Comparing GA and Dijkstra's Algorithm 
 
 #### Optimizing for Multiple Objectives:
