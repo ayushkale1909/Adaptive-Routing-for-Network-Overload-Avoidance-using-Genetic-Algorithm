@@ -56,7 +56,7 @@ Higher Fitness means:
 
 ![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/Route%201.png)
 
-![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/Route%201.png)
+![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/R2.png)
 
 ![Alt Text](https://github.com/ayushkale1909/Adaptive-Routing-for-Network-Overload-Avoidance-using-Genetic-Algorithm/blob/main/figures/R3.png)
 
