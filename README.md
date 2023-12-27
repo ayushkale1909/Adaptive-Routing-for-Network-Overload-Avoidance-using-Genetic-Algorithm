@@ -37,15 +37,15 @@ Higher Fitness means:
 ## Comparing GA and Dijkstra's Algorithm 
 
 #### Optimizing for Multiple Objectives:
-#### GA can be used to optimize for multiple objectives simultaneously, such as minimizing time, energy consumption, or load balancing.
+##### GA can be used to optimize for multiple objectives simultaneously, such as minimizing time, energy consumption, or load balancing.
 
 #### Exploration of Solution Space:
-#### GA explores a wide solution space whereas  Dijkstra's will converge to a optimum value. 
+##### GA explores a wide solution space whereas  Dijkstra's will converge to a optimum value. 
 
 #### Genetic Algorithms are adaptable to dynamic or changing network conditions. 
  
 #### GA can discover and optimize multiple routes, enabling load balancing across the network.
-#### Helpful in scenarios where distributing traffic or resources across multiple paths is essential for efficiency and reliability.
+##### Helpful in scenarios where distributing traffic or resources across multiple paths is essential for efficiency and reliability.
 
 #### Dijkstra's algorithm would requires less memory compared to genetic algorithm.
 
